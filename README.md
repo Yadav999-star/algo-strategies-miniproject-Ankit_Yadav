@@ -1,22 +1,51 @@
 # algo-strategies-miniproject-Ankit_Yadav
-This project shows basic algorithms like sorting and knapsack using Python. It also compares performance and explains different approaches in a simple way.
-Problem Context
+# Algorithm Analysis using Python
 
-This project focuses on solving basic algorithm problems like sorting and knapsack to understand how different techniques work.
+---
 
-Algorithmic Strategy
+## Student Details
 
-It uses divide and conquer (Merge Sort), greedy method (Fractional Knapsack), and dynamic programming (0/1 Knapsack).
+Name: Ankit Yadav
+Roll Number: 2401720012
+Course: B.Sc (H) Computer Science
 
-Time Complexity
+---
+
+## Project Overview
+
+This project focuses on implementing basic algorithms to understand different problem-solving techniques and their performance. It includes Divide and Conquer, Greedy, and Dynamic Programming approaches.
+
+---
+
+## Algorithms Covered
+
+**1. Merge Sort (Divide and Conquer)**
+Time Complexity: O(n log n)
+
+**2. Sorting Comparison (Merge Sort vs Quick Sort)**
 Merge Sort: O(n log n)
-Bubble Sort: O(n²)
-Fractional Knapsack: O(n log n) (due to sorting)
-0/1 Knapsack: O(n × capacity)
-Setup
+Quick Sort: O(n log n) average, O(n²) worst case
 
-Make sure Python and Jupyter Notebook are installed. Required library: matplotlib.
+**3. Fractional Knapsack (Greedy)**
+Time Complexity: O(n log n)
 
-Usage
+**4. 0/1 Knapsack (Dynamic Programming)**
+Time Complexity: O(n × W)
 
-Open the .ipynb file in Jupyter Notebook and run the cells one by one to see outputs and graphs.
+---
+
+## Output
+
+Graphs are used to compare sorting performance, and results are printed for knapsack problems.
+
+---
+
+## Tools Used
+
+Python, Matplotlib, Jupyter Notebook
+
+---
+
+## Conclusion
+
+This project shows how different algorithms perform and helps in choosing the right approach based on the problem.
